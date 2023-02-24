@@ -1,0 +1,18 @@
+{
+    "name": "threejs-stl-sample",
+    "version": "0.0.0",
+    "type": "module",
+    "scripts": {
+        "build": "tsc && vite build",
+        "dev": "vite",
+        "preview": "vite preview"
+    },
+    "devDependencies": {
+        "typescript": "4.9.5",
+        "vite": "4.1.4",
+        "@types/three": "0.149.0"
+    },
+    "dependencies": {
+        "three": "0.150.0"
+    }
+}
